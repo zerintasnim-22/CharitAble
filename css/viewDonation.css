@@ -1,0 +1,38 @@
+body{
+  position: relative;
+  background-image: linear-gradient(rgba(255, 249, 249, 0.79),rgba(240, 231, 231, 0.884)),url("asset/bg11.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+
+
+	table{
+		position: relative;
+		z-index: 1;
+		background: #FFFFFF;
+		max-width: 400px;
+		margin: 50px auto 100px;
+		padding: 45px;
+		text-align: center;
+		box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+	}
+
+legend{
+	font-size: 35px;
+	text-align: center;
+	color: navy;
+}
+.Back{
+	text-align: center;
+}
+	.Back a{
+    color: red;
+    text-decoration: none;
+    font-size: 25px;
+
+}
+.Back a:hover{
+    color: blue;
+}
