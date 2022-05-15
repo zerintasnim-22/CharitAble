@@ -1,0 +1,22 @@
+.tabs a{
+	display: inline-table;
+	position: relative;
+	background-color: #c1d5e3;
+	width: 300px;
+	border: 15px #fcfcfc;
+	padding: 5px;
+	margin: auto;
+	font-size: 20px;
+	text-align: center;
+}
+.tabs-container{
+	display: grid;
+}
+.Back a{
+    color: red;
+    text-decoration: none;
+    font-size: 18px;
+}
+.Back a:hover{
+    color: blue;
+}
